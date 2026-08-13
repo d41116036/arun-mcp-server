@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "arun-tools": {
+      "command": "python",
+      "args": ["/Users/arunvijapurapu/Desktop/Python/github/arun-mcp-server/server.py"]
+    }
+  }
+}
