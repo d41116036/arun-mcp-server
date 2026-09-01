@@ -12,7 +12,7 @@ mcp = MCPServer("arun-tools")
 
 load_dotenv()
 PINECONE_APP_BASE_URL = os.getenv(
-    "PINECONE_APP_BASE_URL", "http://54.204.110.222/pineconeapp"
+    "PINECONE_APP_BASE_URL", "http://52.201.201.35/pineconeapp"
 ).rstrip("/")
 
 
